@@ -23,7 +23,7 @@ export default {
   new Vue({
     el: '#preview',
     render: h => (
-      <div id="preview">
+      <div id="preview" class="container">
         ${this.value}
       </div>
       )

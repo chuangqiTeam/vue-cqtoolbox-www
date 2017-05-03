@@ -5776,9 +5776,9 @@ void-elements@^2.0.0:
   version "2.0.1"
   resolved "http://registry.npm.taobao.org/void-elements/download/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
 
-vue-cqtoolbox@^0.0.1:
-  version "0.0.1"
-  resolved "http://registry.npm.taobao.org/vue-cqtoolbox/download/vue-cqtoolbox-0.0.1.tgz#61b3a4edce9f2b27b00681c035ea7100c0b84763"
+vue-cqtoolbox@^0.0.2:
+  version "0.0.2"
+  resolved "http://registry.npm.taobao.org/vue-cqtoolbox/download/vue-cqtoolbox-0.0.2.tgz#b62573f01a798f934783ecc7d298506fddcfc1d2"
   dependencies:
     vue "^2.1.10"
 
@@ -5802,12 +5802,6 @@ vue-loader@^11.1.4:
     vue-hot-reload-api "^2.0.11"
     vue-style-loader "^2.0.0"
     vue-template-es2015-compiler "^1.2.2"
-
-vue-material@^0.7.1:
-  version "0.7.1"
-  resolved "http://registry.npm.taobao.org/vue-material/download/vue-material-0.7.1.tgz#2ed25eb1e2054c21fe323361604c92f40ef5ada1"
-  dependencies:
-    vue "^2.1.10"
 
 vue-router@^2.3.0:
   version "2.4.0"

@@ -17,8 +17,10 @@ export default {
   data () {
     return {
       code: `
-<cq-button class="cq-raised cq-primary">Hello</cq-button>
-<cq-button class="cq-raised cq-warn">Hello</cq-button>
+<cq-section title="按钮">
+  <cq-button class="cq-raised cq-primary">Hello</cq-button>
+  <cq-button class="cq-raised cq-warn">Hello</cq-button>
+</cq-section>
 `
     }
   }
